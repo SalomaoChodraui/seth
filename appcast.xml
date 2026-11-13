@@ -4,6 +4,21 @@
     <title>Seth</title>
     <!-- items -->
     <item>
+      <title>Seth 0.3.8</title>
+      <pubDate>Fri, 13 Nov 2026 15:11:34 +0000</pubDate>
+      <sparkle:version>202611131210</sparkle:version>
+      <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Seth 0.3.8</h3>
+<h3>Novidades</h3>
+<ul>
+<li><b>Ultrassom colorido em JPEG-LS:</b> os exames que mostravam "Can't Show These Images" abrem, com as imagens iguais às do original. Vale para o ultrassom obstétrico da GE Voluson e para qualquer arquivo que intercale as amostras de cor.</li>
+<li><b>Cine gravado como vídeo:</b> ecocardiograma, endoscopia e cine de angiografia em MPEG-2, H.264 ou HEVC abrem no visualizador e rodam em loop, quadro a quadro, como qualquer outra série.</li>
+<li><b>Cores de tabela e croma compartilhado:</b> imagens em PALETTE COLOR, comuns em Doppler antigo e medicina nuclear, e em YBR_FULL_422 aparecem com as cores certas.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/SalomaoChodraui/seth/releases/download/v0.3.8/Seth-0.3.8.zip" type="application/octet-stream" sparkle:edSignature="AXV6JXV7VC/+235toIMLwJHFOlHxzU2Rg4YBx/4PpH9LUJ+tepMpWQyR49ooGjxNj5CYM8VNjmd3lNj+J88hBw==" length="6889524"/>
+    </item>
+    <item>
       <title>Seth 0.3.7</title>
       <pubDate>Wed, 11 Nov 2026 22:25:59 +0000</pubDate>
       <sparkle:version>202611111924</sparkle:version>

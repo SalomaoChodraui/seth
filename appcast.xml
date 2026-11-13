@@ -4,6 +4,27 @@
     <title>Seth</title>
     <!-- items -->
     <item>
+      <title>Seth 0.3.9</title>
+      <pubDate>Fri, 13 Nov 2026 21:57:06 +0000</pubDate>
+      <sparkle:version>202611131855</sparkle:version>
+      <sparkle:shortVersionString>0.3.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Seth 0.3.9</h3>
+<h3>Novidades</h3>
+<ul>
+<li><b>Servidores DICOM e DICOMweb:</b> em Ajustes > Rede, cadastre o PACS da clínica pelo AE Title, endereço e porta, ou um serviço DICOMweb pela URL. Cada servidor aparece na barra lateral, com busca por nome, ID, número de acesso, data e modalidade. ⌘D baixa o exame para a Biblioteca. O Seth também recebe os exames que os servidores da lista enviam para este Mac.</li>
+<li><b>Remoção de osso no 3D:</b> a Tesoura (⌥⌘X) contorna o que sai, e o corte atravessa toda a profundidade. Remover Peça (⌥⌘P) tira com um clique o osso ligado ao ponto e mantém os vasos encostados nele. ⌘Z desfaz, Mostrar Removido tinge o que saiu, e o MIP do MPR deixa o osso removido de fora.</li>
+<li><b>Ícone novo:</b> dois traços em curva no lugar do S de barras.</li>
+</ul>
+<h3>Correções</h3>
+<ul>
+<li><b>Data do exame:</b> no Brasil, as datas apareciam um dia antes por causa do fuso.</li>
+<li><b>Barra do 3D:</b> mostra só Janela e Girar 3D, as ferramentas que agem no volume.</li>
+<li><b>Esc:</b> cada Esc fecha uma camada, na ordem: a medida em desenho, a ferramenta de remoção, o 3D, o quadro ampliado, o MPR e a tela cheia. O último volta para Janela.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/SalomaoChodraui/seth/releases/download/v0.3.9/Seth-0.3.9.zip" type="application/octet-stream" sparkle:edSignature="llsG8zB8bzYBKCecDNKvyJ6z7Mi7Ap3buCR4UOrxEoLl18E6LdqV6Xh7Liqxo0Kb829iWUsm+2FgnmS1ddd6Cg==" length="8166889"/>
+    </item>
+    <item>
       <title>Seth 0.3.8</title>
       <pubDate>Fri, 13 Nov 2026 15:11:34 +0000</pubDate>
       <sparkle:version>202611131210</sparkle:version>

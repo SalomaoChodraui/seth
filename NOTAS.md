@@ -1,5 +1,17 @@
 # Notas de cada versão
 
+## 0.3.9 (13/11/2026)
+
+### Novidades
+- **Servidores DICOM e DICOMweb:** em Ajustes > Rede, cadastre o PACS da clínica pelo AE Title, endereço e porta, ou um serviço DICOMweb pela URL. Cada servidor aparece na barra lateral, com busca por nome, ID, número de acesso, data e modalidade. ⌘D baixa o exame para a Biblioteca. O Seth também recebe os exames que os servidores da lista enviam para este Mac.
+- **Remoção de osso no 3D:** a Tesoura (⌥⌘X) contorna o que sai, e o corte atravessa toda a profundidade. Remover Peça (⌥⌘P) tira com um clique o osso ligado ao ponto e mantém os vasos encostados nele. ⌘Z desfaz, Mostrar Removido tinge o que saiu, e o MIP do MPR deixa o osso removido de fora.
+- **Ícone novo:** dois traços em curva no lugar do S de barras.
+
+### Correções
+- **Data do exame:** no Brasil, as datas apareciam um dia antes por causa do fuso.
+- **Barra do 3D:** mostra só Janela e Girar 3D, as ferramentas que agem no volume.
+- **Esc:** cada Esc fecha uma camada, na ordem: a medida em desenho, a ferramenta de remoção, o 3D, o quadro ampliado, o MPR e a tela cheia. O último volta para Janela.
+
 ## 0.3.8 (13/11/2026)
 
 ### Novidades

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Seth</title>
+    <!-- items -->
+    <item>
+      <title>Seth 0.3.7</title>
+      <pubDate>Wed, 11 Nov 2026 22:25:59 +0000</pubDate>
+      <sparkle:version>202611111924</sparkle:version>
+      <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Seth 0.3.7</h3>
+<h3>Novidades</h3>
+<ul>
+<li><b>Escolher as colunas da lista:</b> clique com o botão direito nos títulos da lista de exames e marque o que quer ver. Há dez colunas novas: Instituição, Médico Solicitante, Número de Acesso, Idade, Sexo, Nascimento, Região, Equipamento, Hora do Exame e Séries. A escolha, a ordem e as larguras ficam guardadas.</li>
+<li><b>Data de Adição:</b> a lista mostra quando cada exame entrou no Seth, com data e hora, e ordena por ela.</li>
+<li><b>Angiografia na barra lateral:</b> os exames XA ganham página própria e saem de Raio-X. A página Outros sai da barra lateral.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/SalomaoChodraui/seth/releases/download/v0.3.7/Seth-0.3.7.zip" type="application/octet-stream" sparkle:edSignature="qgDZCFtJVmPGL6s20rnHyqHNr9zNYYovWkyP782PTCI61odEGGPaVj9q2wnOrBAmdjbcCL2aWmZjPBKVxIKcDw==" length="6745001"/>
+    </item>
+  </channel>
+</rss>

@@ -4,6 +4,24 @@
     <title>Seth</title>
     <!-- items -->
     <item>
+      <title>Seth 0.3.11</title>
+      <pubDate>Sat, 14 Nov 2026 03:12:10 +0000</pubDate>
+      <sparkle:version>202611140010</sparkle:version>
+      <sparkle:shortVersionString>0.3.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Seth 0.3.11</h3>
+<h3>Novidades</h3>
+<ul>
+<li><b>Menu no botão direito:</b> clicar com o botão direito na imagem, sem arrastar, abre as ferramentas, as janelas, a projeção, o plano, girar e espelhar, o layout, a sincronização, a série anterior e a próxima, o MPR e o 3D. Arrastar com o botão direito continua dando zoom.</li>
+<li><b>Atalhos editáveis:</b> em Ajustes > Atalhos, clique num atalho e aperte as teclas novas. Vale para 35 comandos do visualizador, na barra de menus, no menu do botão direito e no teclado. Um atalho já usado é recusado com o motivo, e Restaurar Padrões volta tudo.</li>
+<li><b>Projeção e sincronização pelo teclado:</b> Fino, MIP, MinIP e Média em ⌃⌥1 a ⌃⌥4. Sincronizar rolagem, zoom e janela em ⌃⌥S, ⌃⌥Z e ⌃⌥W. Série anterior e próxima em ⌥↑ e ⌥↓.</li>
+<li><b>Medidas novas:</b> Curva (U) mede uma linha de vários pontos. Relação (T) dá a razão entre duas linhas, como no índice cardiotorácico. Polígono (P) e Retângulo (Q) dão área, média, desvio padrão, mínimo e máximo, e a Área à mão livre passa a mostrar os mesmos valores. Curva e polígono terminam com clique duplo ou Return.</li>
+<li><b>Calibrar Escala:</b> com uma régua selecionada, ⌥⌘L pede o tamanho real em mm, e as medidas da série passam a usá-lo. ⇧⌥⌘L remove a calibração.</li>
+<li><b>Rótulos da coluna:</b> a ferramenta Rótulos da Coluna (J) nomeia a vértebra clicada e passa para a próxima, para os pés ou para a cabeça. O rótulo aparece em todas as séries do estudo e no MPR, nas imagens que passam por ele. ⌥⌘J desfaz e ⇧⌥⌘J limpa.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/SalomaoChodraui/seth/releases/download/v0.3.11/Seth-0.3.11.zip" type="application/octet-stream" sparkle:edSignature="cn6gSNLxYqaYXrrW9aZf/e9OboVVclDrbcf2dMlDRldd4ZPUm+yWhp9/5WMPR/CyAAqJixWks62WrgKJ4uqfDg==" length="9087154"/>
+    </item>
+    <item>
       <title>Seth 0.3.10</title>
       <pubDate>Sat, 14 Nov 2026 01:19:04 +0000</pubDate>
       <sparkle:version>202611132217</sparkle:version>

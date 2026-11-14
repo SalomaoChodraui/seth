@@ -1,5 +1,15 @@
 # Notas de cada versão
 
+## 0.3.11 (14/11/2026)
+
+### Novidades
+- **Menu no botão direito:** clicar com o botão direito na imagem, sem arrastar, abre as ferramentas, as janelas, a projeção, o plano, girar e espelhar, o layout, a sincronização, a série anterior e a próxima, o MPR e o 3D. Arrastar com o botão direito continua dando zoom.
+- **Atalhos editáveis:** em Ajustes > Atalhos, clique num atalho e aperte as teclas novas. Vale para 35 comandos do visualizador, na barra de menus, no menu do botão direito e no teclado. Um atalho já usado é recusado com o motivo, e Restaurar Padrões volta tudo.
+- **Projeção e sincronização pelo teclado:** Fino, MIP, MinIP e Média em ⌃⌥1 a ⌃⌥4. Sincronizar rolagem, zoom e janela em ⌃⌥S, ⌃⌥Z e ⌃⌥W. Série anterior e próxima em ⌥↑ e ⌥↓.
+- **Medidas novas:** Curva (U) mede uma linha de vários pontos. Relação (T) dá a razão entre duas linhas, como no índice cardiotorácico. Polígono (P) e Retângulo (Q) dão área, média, desvio padrão, mínimo e máximo, e a Área à mão livre passa a mostrar os mesmos valores. Curva e polígono terminam com clique duplo ou Return.
+- **Calibrar Escala:** com uma régua selecionada, ⌥⌘L pede o tamanho real em mm, e as medidas da série passam a usá-lo. ⇧⌥⌘L remove a calibração.
+- **Rótulos da coluna:** a ferramenta Rótulos da Coluna (J) nomeia a vértebra clicada e passa para a próxima, para os pés ou para a cabeça. O rótulo aparece em todas as séries do estudo e no MPR, nas imagens que passam por ele. ⌥⌘J desfaz e ⇧⌥⌘J limpa.
+
 ## 0.3.10 (13/11/2026)
 
 ### Novidades

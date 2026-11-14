@@ -1,5 +1,14 @@
 # Notas de cada versão
 
+## 0.3.10 (13/11/2026)
+
+### Novidades
+- **Ferro e gordura no fígado:** a ferramenta Ferro e Gordura Hepáticos (F) mede uma RM gradiente-eco multieco, como o MRQuantif. Clique no fígado, no baço, no músculo paravertebral e no ar (ruído) para pôr círculos. O painel dá a fração de gordura (PDFF), o R2*, o T2* e a concentração de ferro por R2* e pela razão de sinal com o músculo (SIR), com o ajuste de cada círculo e a curva do sinal por eco.
+- **Mapas de gordura e R2*:** pixel a pixel, sobre a imagem (⌃⌘P e ⌃⌘R).
+- **Calibração do ferro:** Gandon 2025 por padrão, a fórmula dos laudos do MRQuantif, com Garbowski, Wood, Hankins, Henninger, Hernando e d'Assignies à escolha (⌃⌥⌘1 a ⌃⌥⌘6).
+- **Grau de esteatose:** pela diretriz SAR (6, 17 e 22 %), pelos cortes do MRQuantif (4, 10 e 20 %) ou pelos dois, com a fonte no texto copiado (⇧⌃⌘1 a ⇧⌃⌘3).
+- **Laudo:** ⌃⌘C copia a técnica, gordura, R2*, T2*, ferro e graus em texto.
+
 ## 0.3.9 (13/11/2026)
 
 ### Novidades

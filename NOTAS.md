@@ -1,5 +1,19 @@
 # Notas de cada versão
 
+## 0.6.0 (15/11/2026)
+
+### Novidades
+- **Ângulo de Cobb (Y):** desenhe duas retas, como dois platôs vertebrais, e o Seth mostra o ângulo entre elas, mesmo quando não se cruzam. Fica no botão do Ângulo.
+- **Estenose (N):** meça o diâmetro do vaso normal e depois o diâmetro no ponto mais estreito; o Seth mostra a estenose em porcentagem, com uma casa decimal, e os dois diâmetros. Fica no botão da Régua.
+- **Copiar e colar medidas:** ⌘C guarda a medida selecionada junto com a imagem, e ⌘V cola a medida na imagem ativa, em outro nível, série ou exame. No mesmo plano ela cai no mesmo lugar do paciente; em outro plano, no centro, com o mesmo tamanho em mm.
+- **Linhas de referência:** com dois ou mais quadros, cada um mostra em tracejado onde a imagem ativa o corta, como o axial atual sobre o sagital. Visualizar > Sincronizar > Linhas de Referência (⌃⌥L) liga e desliga.
+- **Tags sobre a imagem:** Ajustes > Dados da Imagem escolhe tags DICOM para mostrar abaixo da data, como a idade ou o Image Comments onde algumas clínicas põem a lateralidade. Também dá para adicionar pelo inspetor de tags (⌘I), com o botão direito numa linha.
+- **Círculo exato:** com ⇧, a Densidade desenha um círculo e o Retângulo, um quadrado.
+- **Apagar Todas as Medidas (⌘⌫):** apaga as medidas de todas as imagens da série do quadro ativo.
+- **Fechar Quadro (⌘W):** agora aparece no menu Visualizar e no botão direito.
+- **Dicas das ferramentas:** cada botão da barra diz o nome, a tecla e como usar a ferramenta.
+- **Rótulos da coluna:** levam um asterisco, e a imagem avisa que a contagem foi feita à mão e deve ser conferida.
+
 ## 0.5.1 (15/11/2026)
 
 ### Novidades

@@ -4,6 +4,28 @@
     <title>Seth</title>
     <!-- items -->
     <item>
+      <title>Seth 0.6.0</title>
+      <pubDate>Sun, 15 Nov 2026 21:36:23 +0000</pubDate>
+      <sparkle:version>202611151835</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Seth 0.6.0</h3>
+<h3>Novidades</h3>
+<ul>
+<li><b>Ângulo de Cobb (Y):</b> desenhe duas retas, como dois platôs vertebrais, e o Seth mostra o ângulo entre elas, mesmo quando não se cruzam. Fica no botão do Ângulo.</li>
+<li><b>Estenose (N):</b> meça o diâmetro do vaso normal e depois o diâmetro no ponto mais estreito; o Seth mostra a estenose em porcentagem, com uma casa decimal, e os dois diâmetros. Fica no botão da Régua.</li>
+<li><b>Copiar e colar medidas:</b> ⌘C guarda a medida selecionada junto com a imagem, e ⌘V cola a medida na imagem ativa, em outro nível, série ou exame. No mesmo plano ela cai no mesmo lugar do paciente; em outro plano, no centro, com o mesmo tamanho em mm.</li>
+<li><b>Linhas de referência:</b> com dois ou mais quadros, cada um mostra em tracejado onde a imagem ativa o corta, como o axial atual sobre o sagital. Visualizar > Sincronizar > Linhas de Referência (⌃⌥L) liga e desliga.</li>
+<li><b>Tags sobre a imagem:</b> Ajustes > Dados da Imagem escolhe tags DICOM para mostrar abaixo da data, como a idade ou o Image Comments onde algumas clínicas põem a lateralidade. Também dá para adicionar pelo inspetor de tags (⌘I), com o botão direito numa linha.</li>
+<li><b>Círculo exato:</b> com ⇧, a Densidade desenha um círculo e o Retângulo, um quadrado.</li>
+<li><b>Apagar Todas as Medidas (⌘⌫):</b> apaga as medidas de todas as imagens da série do quadro ativo.</li>
+<li><b>Fechar Quadro (⌘W):</b> agora aparece no menu Visualizar e no botão direito.</li>
+<li><b>Dicas das ferramentas:</b> cada botão da barra diz o nome, a tecla e como usar a ferramenta.</li>
+<li><b>Rótulos da coluna:</b> levam um asterisco, e a imagem avisa que a contagem foi feita à mão e deve ser conferida.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/SalomaoChodraui/seth/releases/download/v0.6.0/Seth-0.6.0.zip" type="application/octet-stream" sparkle:edSignature="I48OzLfAgAr0157aYej5WloyVEnz9/HuGkuuW554aq2FeWCNQ3Gx+7IXvoEqHIsDFl5qf2f5SkJRxYpsVc3WCQ==" length="9977683"/>
+    </item>
+    <item>
       <title>Seth 0.5.1</title>
       <pubDate>Sun, 15 Nov 2026 17:05:10 +0000</pubDate>
       <sparkle:version>202611151403</sparkle:version>

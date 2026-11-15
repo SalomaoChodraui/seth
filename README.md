@@ -5,3 +5,5 @@ Visualizador DICOM gratuito para macOS. Site e download: [getseth.app](https://g
 Este repositório guarda os instaladores das versões publicadas e o `appcast.xml` que o Seth consulta para se atualizar. O código do app fica em outro lugar e não é público.
 
 O que mudou em cada versão está em [NOTAS.md](NOTAS.md).
+
+O uso do Seth segue a [licença](LICENSE.md): uso grátis para estudo, ensino e pesquisa, sem garantia, e sem registro como dispositivo médico.

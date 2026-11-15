@@ -1,5 +1,10 @@
 # Notas de cada versão
 
+## 0.4.1 (15/11/2026)
+
+### Ajustes
+- As dicas do escore de cálcio e do fígado dizem que ⌥⌘C e ⌃⌘C copiam o resultado como texto.
+
 ## 0.4.0 (14/11/2026)
 
 ### Novidades

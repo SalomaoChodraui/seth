@@ -4,6 +4,19 @@
     <title>Seth</title>
     <!-- items -->
     <item>
+      <title>Seth 0.4.1</title>
+      <pubDate>Sun, 15 Nov 2026 10:17:47 +0000</pubDate>
+      <sparkle:version>202611150716</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Seth 0.4.1</h3>
+<h3>Ajustes</h3>
+<ul>
+<li>As dicas do escore de cálcio e do fígado dizem que ⌥⌘C e ⌃⌘C copiam o resultado como texto.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/SalomaoChodraui/seth/releases/download/v0.4.1/Seth-0.4.1.zip" type="application/octet-stream" sparkle:edSignature="JXKWM3TzXjCugexZCJ19tHCW2lL5IaXGdzCV8+jz0OnswfQrQs43c/Yy1NglM8WNzZvPnJFt18+glrNVk47UDg==" length="9675136"/>
+    </item>
+    <item>
       <title>Seth 0.4.0</title>
       <pubDate>Sun, 15 Nov 2026 00:26:03 +0000</pubDate>
       <sparkle:version>202611142124</sparkle:version>

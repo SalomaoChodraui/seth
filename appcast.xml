@@ -4,6 +4,26 @@
     <title>Seth</title>
     <!-- items -->
     <item>
+      <title>Seth 0.4.0</title>
+      <pubDate>Sun, 15 Nov 2026 00:26:03 +0000</pubDate>
+      <sparkle:version>202611142124</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Seth 0.4.0</h3>
+<h3>Novidades</h3>
+<ul>
+<li><b>Painel de séries:</b> selecione um exame na lista e as séries aparecem ao lado, em miniatura. Passe o ponteiro sobre uma miniatura para percorrer as imagens. Espaço ou Ampliar mostram a série grande no topo do painel, e ← → avançam as imagens. Duplo clique abre a série no visualizador. O exame anterior do paciente aparece logo abaixo, com Comparar, que abre os dois lado a lado. O painel aparece quando há exame selecionado e some quando não há. A largura muda arrastando a borda, e o tamanho das miniaturas, no controle de baixo. Visualizar > Mostrar Painel de Séries (⌥⌘I) liga e desliga.</li>
+<li><b>Vincular pacientes:</b> quando o mesmo paciente tem exames com nome escrito de outro jeito ou ID diferente, o painel sugere "Mesmo paciente?" e mostra o motivo: nomes em outra ordem, uma letra diferente, um sobrenome a menos, mesma data de nascimento. <b>Ver e vincular…</b> compara os dois cadastros lado a lado antes de confirmar. <b>Não é a mesma pessoa</b> encerra a sugestão. Arquivo > Vincular a Outro Paciente… (⌃⌘L) liga qualquer exame, com aviso quando nascimento ou sexo diferem. Depois de vinculados, os exames contam como anteriores no painel e no visualizador, a lista mostra uma corrente ao lado do nome, e a busca por um dos nomes ou IDs traz todos os exames do paciente. Desvincular Paciente (⌃⇧⌘L) e ⌘Z desfazem. Para juntar vários exames de uma vez, selecione-os na lista com ⌘-clique ou ⇧-clique e escolha Vincular como Mesmo Paciente… no menu de contexto ou em Arquivo (⌃⌘L). No visualizador, cada exame mostra o nome e o ID do próprio cadastro. O vínculo fica guardado só no Seth: os arquivos DICOM e o PACS não mudam.</li>
+<li><b>Busca na barra lateral:</b> o campo de busca fica no alto da barra lateral, à esquerda, e Editar > Buscar Exames (⌘F) leva até ele.</li>
+</ul>
+<h3>Desempenho</h3>
+<ul>
+<li>Redimensionar a janela com o painel aberto ficou mais leve.</li>
+<li>As miniaturas abrem a imagem que está sob o ponteiro e leem só a que vai aparecer.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/SalomaoChodraui/seth/releases/download/v0.4.0/Seth-0.4.0.zip" type="application/octet-stream" sparkle:edSignature="U1nge7MZHzY2aMYNg2Q0NoklWBZwmcQ/M0KzxCrqjlQzWmA26ogexqm9TThyZy85Th2RTWeXn0VcpPWqo/9rAg==" length="9675191"/>
+    </item>
+    <item>
       <title>Seth 0.3.11</title>
       <pubDate>Sat, 14 Nov 2026 03:12:10 +0000</pubDate>
       <sparkle:version>202611140010</sparkle:version>

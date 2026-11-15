@@ -1,5 +1,16 @@
 # Notas de cada versão
 
+## 0.4.0 (14/11/2026)
+
+### Novidades
+- **Painel de séries:** selecione um exame na lista e as séries aparecem ao lado, em miniatura. Passe o ponteiro sobre uma miniatura para percorrer as imagens. Espaço ou Ampliar mostram a série grande no topo do painel, e ← → avançam as imagens. Duplo clique abre a série no visualizador. O exame anterior do paciente aparece logo abaixo, com Comparar, que abre os dois lado a lado. O painel aparece quando há exame selecionado e some quando não há. A largura muda arrastando a borda, e o tamanho das miniaturas, no controle de baixo. Visualizar > Mostrar Painel de Séries (⌥⌘I) liga e desliga.
+- **Vincular pacientes:** quando o mesmo paciente tem exames com nome escrito de outro jeito ou ID diferente, o painel sugere "Mesmo paciente?" e mostra o motivo: nomes em outra ordem, uma letra diferente, um sobrenome a menos, mesma data de nascimento. **Ver e vincular…** compara os dois cadastros lado a lado antes de confirmar. **Não é a mesma pessoa** encerra a sugestão. Arquivo > Vincular a Outro Paciente… (⌃⌘L) liga qualquer exame, com aviso quando nascimento ou sexo diferem. Depois de vinculados, os exames contam como anteriores no painel e no visualizador, a lista mostra uma corrente ao lado do nome, e a busca por um dos nomes ou IDs traz todos os exames do paciente. Desvincular Paciente (⌃⇧⌘L) e ⌘Z desfazem. Para juntar vários exames de uma vez, selecione-os na lista com ⌘-clique ou ⇧-clique e escolha Vincular como Mesmo Paciente… no menu de contexto ou em Arquivo (⌃⌘L). No visualizador, cada exame mostra o nome e o ID do próprio cadastro. O vínculo fica guardado só no Seth: os arquivos DICOM e o PACS não mudam.
+- **Busca na barra lateral:** o campo de busca fica no alto da barra lateral, à esquerda, e Editar > Buscar Exames (⌘F) leva até ele.
+
+### Desempenho
+- Redimensionar a janela com o painel aberto ficou mais leve.
+- As miniaturas abrem a imagem que está sob o ponteiro e leem só a que vai aparecer.
+
 ## 0.3.11 (14/11/2026)
 
 ### Novidades

@@ -1,5 +1,10 @@
 # Notas de cada versão
 
+## 0.4.2 (15/11/2026)
+
+### Novidades
+- **Termos de uso:** na primeira abertura, o Seth mostra os termos de uso e pede que você concorde. O Seth serve para estudo, ensino e pesquisa, não tem registro na ANVISA nem na FDA como dispositivo médico e não se destina a diagnóstico primário. O texto fica em Ajuda > Termos de Uso e em Sobre o Seth, com link para a licença.
+
 ## 0.4.1 (15/11/2026)
 
 ### Ajustes

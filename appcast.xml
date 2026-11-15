@@ -4,6 +4,19 @@
     <title>Seth</title>
     <!-- items -->
     <item>
+      <title>Seth 0.4.2</title>
+      <pubDate>Sun, 15 Nov 2026 12:17:18 +0000</pubDate>
+      <sparkle:version>202611150916</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Seth 0.4.2</h3>
+<h3>Novidades</h3>
+<ul>
+<li><b>Termos de uso:</b> na primeira abertura, o Seth mostra os termos de uso e pede que você concorde. O Seth serve para estudo, ensino e pesquisa, não tem registro na ANVISA nem na FDA como dispositivo médico e não se destina a diagnóstico primário. O texto fica em Ajuda > Termos de Uso e em Sobre o Seth, com link para a licença.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/SalomaoChodraui/seth/releases/download/v0.4.2/Seth-0.4.2.zip" type="application/octet-stream" sparkle:edSignature="WucgoZ4WoKl3/W0I5SrWxa81bZ1IG5fTj2duXPbLnkGXLTg2wZII4JRGmEFschQZ6ozku6x/YQstsdBQGZ6kCA==" length="9707301"/>
+    </item>
+    <item>
       <title>Seth 0.4.1</title>
       <pubDate>Sun, 15 Nov 2026 10:17:47 +0000</pubDate>
       <sparkle:version>202611150716</sparkle:version>

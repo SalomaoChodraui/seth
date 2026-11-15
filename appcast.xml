@@ -4,6 +4,30 @@
     <title>Seth</title>
     <!-- items -->
     <item>
+      <title>Seth 0.5.0</title>
+      <pubDate>Sun, 15 Nov 2026 16:29:21 +0000</pubDate>
+      <sparkle:version>202611151328</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Seth 0.5.0</h3>
+<h3>Novidades</h3>
+<ul>
+<li><b>Painel de séries:</b> ao selecionar um exame, a primeira série aparece grande no topo do painel. Clique numa miniatura para levar a série ao topo; a miniatura escolhida fica com a borda na cor de destaque. Duplo clique abre a série no visualizador. Só as miniaturas rolam, e elas têm tamanho fixo: arrastar a borda do painel muda apenas a série do topo, e as miniaturas ficam centradas até caber mais uma coluna. As setas ← → passam as imagens da série do topo, com o foco na lista ou depois de clicar na imagem. O controle de tamanho das miniaturas saiu.</li>
+<li><b>Álbuns:</b> criar um álbum mantém a lista onde estava, para arrastar exames para ele em seguida.</li>
+</ul>
+<h3>Desempenho</h3>
+<ul>
+<li>Trocar de exame ficou mais rápido. O painel lê as séries sem travar a janela: num exame de 4.364 imagens, a janela travava quase meio segundo a cada seleção.</li>
+<li>A lista de exames passou a ser uma tabela nativa do macOS. Trocar de exame e redimensionar a janela gastam menos tempo.</li>
+<li>As miniaturas e as séries lidas pelo painel ficam dentro de um limite de memória.</li>
+</ul>
+<h3>Observação</h3>
+<ul>
+<li>A lista guarda as colunas que você tinha escolhido. A ordem e a largura das colunas voltam ao padrão uma vez.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/SalomaoChodraui/seth/releases/download/v0.5.0/Seth-0.5.0.zip" type="application/octet-stream" sparkle:edSignature="zOKYLBddPfkOsLQG4lTE42hWo/rsG/mJU7ewJRlkL1mPkmPwhXmE4aPQFFVP6OgzDc4ZOjD8HH68JNtjf2njBQ==" length="9795199"/>
+    </item>
+    <item>
       <title>Seth 0.4.2</title>
       <pubDate>Sun, 15 Nov 2026 12:17:18 +0000</pubDate>
       <sparkle:version>202611150916</sparkle:version>

@@ -1,5 +1,19 @@
 # Notas de cada versão
 
+## 0.5.0 (15/11/2026)
+
+### Novidades
+- **Painel de séries:** ao selecionar um exame, a primeira série aparece grande no topo do painel. Clique numa miniatura para levar a série ao topo; a miniatura escolhida fica com a borda na cor de destaque. Duplo clique abre a série no visualizador. Só as miniaturas rolam, e elas têm tamanho fixo: arrastar a borda do painel muda apenas a série do topo, e as miniaturas ficam centradas até caber mais uma coluna. As setas ← → passam as imagens da série do topo, com o foco na lista ou depois de clicar na imagem. O controle de tamanho das miniaturas saiu.
+- **Álbuns:** criar um álbum mantém a lista onde estava, para arrastar exames para ele em seguida.
+
+### Desempenho
+- Trocar de exame ficou mais rápido. O painel lê as séries sem travar a janela: num exame de 4.364 imagens, a janela travava quase meio segundo a cada seleção.
+- A lista de exames passou a ser uma tabela nativa do macOS. Trocar de exame e redimensionar a janela gastam menos tempo.
+- As miniaturas e as séries lidas pelo painel ficam dentro de um limite de memória.
+
+### Observação
+- A lista guarda as colunas que você tinha escolhido. A ordem e a largura das colunas voltam ao padrão uma vez.
+
 ## 0.4.2 (15/11/2026)
 
 ### Novidades

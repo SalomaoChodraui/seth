@@ -1,5 +1,10 @@
 # Notas de cada versão
 
+## 0.5.1 (15/11/2026)
+
+### Novidades
+- **Painel de séries:** arrastar sobre a série do topo ajusta janela e nível, como no visualizador. Para a direita alarga a janela, para a esquerda estreita, para cima sobe o nível. A janela vale para todas as imagens da série enquanto ela fica no topo. Open e o duplo clique abrem o visualizador com essa janela. Passar o ponteiro sem clicar continua percorrendo as imagens.
+
 ## 0.5.0 (15/11/2026)
 
 ### Novidades

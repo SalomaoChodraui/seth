@@ -4,6 +4,19 @@
     <title>Seth</title>
     <!-- items -->
     <item>
+      <title>Seth 0.5.1</title>
+      <pubDate>Sun, 15 Nov 2026 17:05:10 +0000</pubDate>
+      <sparkle:version>202611151403</sparkle:version>
+      <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Seth 0.5.1</h3>
+<h3>Novidades</h3>
+<ul>
+<li><b>Painel de séries:</b> arrastar sobre a série do topo ajusta janela e nível, como no visualizador. Para a direita alarga a janela, para a esquerda estreita, para cima sobe o nível. A janela vale para todas as imagens da série enquanto ela fica no topo. Open e o duplo clique abrem o visualizador com essa janela. Passar o ponteiro sem clicar continua percorrendo as imagens.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/SalomaoChodraui/seth/releases/download/v0.5.1/Seth-0.5.1.zip" type="application/octet-stream" sparkle:edSignature="5jJrljUSp7R8WXg4ZRiJyh9t8RFxC+AWmeDJJtkD2iHf0e1K0QMswfC/j9F/X7zAkw0PNAsUFIPoriFg+OWiCA==" length="9803902"/>
+    </item>
+    <item>
       <title>Seth 0.5.0</title>
       <pubDate>Sun, 15 Nov 2026 16:29:21 +0000</pubDate>
       <sparkle:version>202611151328</sparkle:version>

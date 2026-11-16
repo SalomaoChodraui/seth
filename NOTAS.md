@@ -1,5 +1,25 @@
 # Notas de cada versão
 
+## 0.7.0 (16/11/2026)
+
+### Novidades
+- **O exame reabre onde você parou:** ao fechar a janela ou sair do Seth, o exame guarda o layout, as séries de cada quadro, a imagem, a janela, o zoom e a rotação. Ao abrir de novo, volta igual. Visualizar > Abrir do Início (⌥⌘R) mostra o exame no arranjo padrão.
+- **Medidas guardadas com o exame:** as medidas ficam nas imagens em que foram feitas e voltam quando o exame é aberto de novo. Elas ficam num arquivo do Seth, ao lado da biblioteca; os arquivos DICOM não mudam. Apagar o exame apaga as medidas dele.
+- **Achados (⌥⌘F):** o botão Achados da barra lista todas as medidas do exame, com o valor, a série e a imagem de cada uma. Digite para dar um nome ao achado e clique para ir à imagem, com a janela e o zoom de quando ele foi medido. ⌥→ e ⌥← vão ao próximo achado e ao anterior.
+- **Copiar Achados (⇧⌥⌘C):** copia uma linha por achado, como "Nódulo: 12,3 mm (Série 4, imagem 52)". Colada num editor de texto rico, cada linha leva um link que reabre o Seth naquela imagem, com a medida selecionada.
+- **Achados na lista de exames:** o painel de séries ganhou o seletor Séries | Achados. Em Achados, um clique mostra a imagem do achado no topo do painel e um duplo clique abre o visualizador nela.
+- **Imagens vistas:** uma faixa fina na borda direita de cada quadro marca as imagens da série que já ficaram na tela, separadas por janela (pulmão, partes moles, osso, cérebro). Clique ou arraste na faixa para ir a uma imagem. Visualizar > Cobertura mostra a porcentagem vista em cada janela, e Ir para a Próxima Imagem Não Vista (⌃⌥U) leva até ela. ⌃⌥C liga e desliga a faixa.
+- **Paleta de Comandos (⇧⌘P):** digite ou dite o que quer, em português ou inglês, como "quatro quadros", "janela de osso", "mip 10 mm" ou "anterior ao lado", e o visualizador executa. Com a coluna rotulada, "L4" ou "L4-L5" leva todos os quadros ao nível.
+- **Macros:** Visualizar > Macros > Iniciar Gravação (⌃⌥M) grava os comandos que você usar em seguida. Ao parar, dê um nome à macro. Ela roda pelo menu, pela paleta ou por uma tecla escolhida em Ajustes > Atalhos.
+- **Botões 4 e 5 do mouse:** Ajustes > Atalhos > Mouse dá a cada botão qualquer comando do visualizador ou uma macro.
+- **Checklist de leitura (⌃⌥K):** Visualizar > Mostrar Checklist abre a lista de itens para o tipo do exame, como TC de tórax ou RM de crânio. As marcas ficam guardadas com o exame. Ajustes > Leitura edita os itens de cada lista.
+- **Aneurisma (I):** marque o colo, a ponta do domo, a maior largura do saco e o diâmetro do vaso. O Seth mostra colo, altura, largura, aspect ratio e size ratio. Fica no botão da Régua.
+- **Setas trocam de série:** ← e → passam para a série anterior e a seguinte. ↑ e ↓ continuam percorrendo as imagens, e ⌥↑ e ⌥↓ continuam trocando de série.
+- **Rótulos da coluna guardados:** os rótulos das vértebras ficam guardados com o exame.
+
+### Desempenho
+- Depois de dois segundos parado numa série, o Seth já decodifica as primeiras imagens da série seguinte e da série correspondente do exame anterior aberto. Trocar para elas mostra a imagem sem espera.
+
 ## 0.6.1 (15/11/2026)
 
 ### Novidades

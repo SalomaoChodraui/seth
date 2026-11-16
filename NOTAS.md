@@ -1,5 +1,11 @@
 # Notas de cada versão
 
+## 0.7.1 (16/11/2026)
+
+### Novidades
+- **Janela pelo tecido:** segure ⌃ e mova o ponteiro sobre uma TC. A janela muda para o tecido que está sob o ponteiro: pulmão, partes moles, osso ou, numa TC de crânio, cérebro. Ao soltar a tecla, a janela fica. O nome do tecido aparece por um instante abaixo dos valores da janela.
+- **Exportar Anonimizado (⇧⌘E):** Arquivo > Exportar Anonimizado…, na lista de exames ou no visualizador, grava cópias DICOM dos exames escolhidos com outro nome e outro ID. As datas podem ser deslocadas, mantidas ou removidas, os identificadores do exame são trocados e as tags privadas saem. Os arquivos originais não mudam. O Seth avisa quantas séries podem ter texto do paciente dentro das imagens, como em ultrassom e capturas de tela; esse texto ele não apaga.
+
 ## 0.7.0 (16/11/2026)
 
 ### Novidades

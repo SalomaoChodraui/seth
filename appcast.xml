@@ -4,6 +4,20 @@
     <title>Seth</title>
     <!-- items -->
     <item>
+      <title>Seth 0.7.1</title>
+      <pubDate>Mon, 16 Nov 2026 12:08:30 +0000</pubDate>
+      <sparkle:version>202611160907</sparkle:version>
+      <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Seth 0.7.1</h3>
+<h3>Novidades</h3>
+<ul>
+<li><b>Janela pelo tecido:</b> segure ⌃ e mova o ponteiro sobre uma TC. A janela muda para o tecido que está sob o ponteiro: pulmão, partes moles, osso ou, numa TC de crânio, cérebro. Ao soltar a tecla, a janela fica. O nome do tecido aparece por um instante abaixo dos valores da janela.</li>
+<li><b>Exportar Anonimizado (⇧⌘E):</b> Arquivo > Exportar Anonimizado…, na lista de exames ou no visualizador, grava cópias DICOM dos exames escolhidos com outro nome e outro ID. As datas podem ser deslocadas, mantidas ou removidas, os identificadores do exame são trocados e as tags privadas saem. Os arquivos originais não mudam. O Seth avisa quantas séries podem ter texto do paciente dentro das imagens, como em ultrassom e capturas de tela; esse texto ele não apaga.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/SalomaoChodraui/seth/releases/download/v0.7.1/Seth-0.7.1.zip" type="application/octet-stream" sparkle:edSignature="KUxl4Mo0+xlvHdUpdE8kAvF2g1SXpn5yXG1sKlWMIBWaGei9y3f9oVro5UdspWSi1lollokaS0CjsceCHuz1AA==" length="13315314"/>
+    </item>
+    <item>
       <title>Seth 0.7.0</title>
       <pubDate>Mon, 16 Nov 2026 11:44:31 +0000</pubDate>
       <sparkle:version>202611160843</sparkle:version>

@@ -1,5 +1,13 @@
 # Notas de cada versão
 
+## 0.6.1 (15/11/2026)
+
+### Novidades
+- **Elipse (D):** a ferramenta Densidade passa a se chamar Elipse, com ícone de círculo. O rótulo mostra a área com a largura e a altura, depois média, desvio padrão, mínimo e máximo. Um clique ainda lê o valor de um pixel.
+- **Centro da elipse:** uma cruz marca o centro, para traçar uma linha pelo meio.
+- **Elipse a partir do centro:** com ⌥, o ponto clicado vira o centro e a elipse cresce até o cursor. Com ⇧ e ⌥, um círculo centrado no clique.
+- **Perímetro:** Área, Polígono e Retângulo mostram o perímetro ao lado da área.
+
 ## 0.6.0 (15/11/2026)
 
 ### Novidades

@@ -4,6 +4,22 @@
     <title>Seth</title>
     <!-- items -->
     <item>
+      <title>Seth 0.6.1</title>
+      <pubDate>Mon, 16 Nov 2026 01:47:37 +0000</pubDate>
+      <sparkle:version>202611152246</sparkle:version>
+      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Seth 0.6.1</h3>
+<h3>Novidades</h3>
+<ul>
+<li><b>Elipse (D):</b> a ferramenta Densidade passa a se chamar Elipse, com ícone de círculo. O rótulo mostra a área com a largura e a altura, depois média, desvio padrão, mínimo e máximo. Um clique ainda lê o valor de um pixel.</li>
+<li><b>Centro da elipse:</b> uma cruz marca o centro, para traçar uma linha pelo meio.</li>
+<li><b>Elipse a partir do centro:</b> com ⌥, o ponto clicado vira o centro e a elipse cresce até o cursor. Com ⇧ e ⌥, um círculo centrado no clique.</li>
+<li><b>Perímetro:</b> Área, Polígono e Retângulo mostram o perímetro ao lado da área.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/SalomaoChodraui/seth/releases/download/v0.6.1/Seth-0.6.1.zip" type="application/octet-stream" sparkle:edSignature="1zBm3p1+ATPDJPvt4fC5Cs4UJSdfB6xvPuvsS+vI+T5ndMoVU4m6XZSYZC7CamjaSk1q9rQMiSf32GGDYtiFAw==" length="10003027"/>
+    </item>
+    <item>
       <title>Seth 0.6.0</title>
       <pubDate>Sun, 15 Nov 2026 21:36:23 +0000</pubDate>
       <sparkle:version>202611151835</sparkle:version>

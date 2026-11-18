@@ -1,5 +1,13 @@
 # Notas de cada versão
 
+## 0.7.2 (18/11/2026)
+
+### Correções
+- **Abrir um exame no macOS 26:** no macOS 26, clicar num exame da lista com o painel de séries aberto fechava o Seth na hora. Agora o painel lê as séries normalmente.
+
+### Beta
+- A Janela Combinada saiu do Seth, junto com a tecla 5 e a chave em Ajustes > Beta.
+
 ## 0.7.1 (16/11/2026)
 
 ### Novidades

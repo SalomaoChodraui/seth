@@ -4,6 +4,23 @@
     <title>Seth</title>
     <!-- items -->
     <item>
+      <title>Seth 0.7.2</title>
+      <pubDate>Wed, 18 Nov 2026 22:43:49 +0000</pubDate>
+      <sparkle:version>202611181942</sparkle:version>
+      <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Seth 0.7.2</h3>
+<h3>Correções</h3>
+<ul>
+<li><b>Abrir um exame no macOS 26:</b> no macOS 26, clicar num exame da lista com o painel de séries aberto fechava o Seth na hora. Agora o painel lê as séries normalmente.</li>
+</ul>
+<h3>Beta</h3>
+<ul>
+<li>A Janela Combinada saiu do Seth, junto com a tecla 5 e a chave em Ajustes > Beta.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/SalomaoChodraui/seth/releases/download/v0.7.2/Seth-0.7.2.zip" type="application/octet-stream" sparkle:edSignature="ly4E0O6mlcIxIAN28D7USZZgXcA9GBMyTyeXi3e9OfTBK3FD2s3JxX0SdKgE1HF+9PV/+wNiEGewLR9xa4vjCA==" length="13271424"/>
+    </item>
+    <item>
       <title>Seth 0.7.1</title>
       <pubDate>Mon, 16 Nov 2026 12:08:30 +0000</pubDate>
       <sparkle:version>202611160907</sparkle:version>
